@@ -1,3 +1,4 @@
+[![Runpod](https://api.runpod.io/badge/pabssen1/worker-vllm)](https://www.console.runpod.io/hub/pabssen1/worker-vllm)
 <div align="center">
 
 # OpenAI-Compatible vLLM Serverless Endpoint Worker
