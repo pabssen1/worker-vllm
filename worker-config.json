@@ -1507,7 +1507,8 @@
       { "value": "mistral", "label": "Mistral" },
       { "value": "llama3_json", "label": "Llama3 JSON" },
       { "value": "pythonic", "label": "Pythonic" },
-      { "value": "internlm", "label": "InternLM" }
+      { "value": "internlm", "label": "InternLM" },
+      { "value": "deepseek_v3", "label": "Deepseek V3" }
     ]
   }
 }
